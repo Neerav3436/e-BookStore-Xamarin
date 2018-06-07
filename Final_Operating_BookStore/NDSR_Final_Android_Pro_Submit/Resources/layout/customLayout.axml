@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="#ffffab00"
+    android:background="@android:color/holo_green_dark">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_marginTop="30dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/vendorimg" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Text"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/vendorName"
+            android:backgroundTint="#ffff5252"
+            android:drawableTint="#ff7c4dff"
+            android:background="@android:color/holo_green_dark" />
+        <TextView
+            android:text="Text"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/vendorAddr"
+            android:backgroundTint="#ffd84315"
+            android:background="@android:color/holo_green_dark" />
+        <TextView
+            android:text="Text"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/vendorPn"
+            android:drawableTint="#ffdd2c00"
+            android:backgroundTint="#ffd32f2f"
+            android:background="@android:color/holo_green_dark" />
+    </LinearLayout>
+</LinearLayout>

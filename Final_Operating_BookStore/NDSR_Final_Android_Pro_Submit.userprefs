@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="NDSR_Final_Android_Pro_Submit/NDSR_Final_Android_Pro_Submit.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NDSR_Final_Android_Pro_Submit/MainActivity.cs">
+    <Files>
+      <File FileName="NDSR_Final_Android_Pro_Submit/MainActivity.cs" Line="99" Column="8" />
+      <File FileName="NDSR_Final_Android_Pro_Submit/Admin_Welcome.cs" Line="19" Column="23" />
+      <File FileName="NDSR_Final_Android_Pro_Submit/CustomAdapterView.cs" Line="10" Column="61" />
+      <File FileName="NDSR_Final_Android_Pro_Submit/DBHelper.cs" Line="15" Column="41" />
+      <File FileName="NDSR_Final_Android_Pro_Submit/DisplayDetails.cs" Line="92" Column="3" />
+      <File FileName="NDSR_Final_Android_Pro_Submit/InsertVendor.cs" Line="17" Column="2" />
+      <File FileName="NDSR_Final_Android_Pro_Submit/Register.cs" Line="133" Column="4" />
+      <File FileName="NDSR_Final_Android_Pro_Submit/Resources/values/Strings.xml" Line="4" Column="55" />
+      <File FileName="NDSR_Final_Android_Pro_Submit/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="NDSR_Final_Android_Pro_Submit/Welcome_Act.cs" Line="19" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NDSR__Final__Android__Pro__Submit AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus 4 (Marshmallow)" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macadmin/Projects/NDSR_Final_Android_Pro_Submit/NDSR_Final_Android_Pro_Submit/Resources/Resource.designer.cs" line="1987" column="41" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Desktop/New_version_Android/New_version_Android/DisplayDetails.cs" line="25" offsetX="537" offsetY="360" expression="tv1" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
